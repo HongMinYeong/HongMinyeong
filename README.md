@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MINYEONG%20HONG🦊&fontSize=50">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hong%20min%20yeong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
+
 </p>
 
 <div align="center">
