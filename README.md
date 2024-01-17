@@ -61,7 +61,7 @@ __:memo: [열줌쉬어] : React.js, Node.js(Express), TypeScript를 활용한 �
 
 __:memo: [송편지] : node.js + express를 이용한 온라인 롤링페이퍼 사이트__
 
-<a href="https://github.com/WebDeViper/WebDeViper_Server"><img src="https://github.com/HongMinYeong/HongMinyeong/assets/65701100/9b778f57-115c-4ba1-bec4-a1512797816e" width=400 height=300> </a>
+<a href="https://github.com/sesacproj1/A_Team_Proj"><img src="https://github.com/HongMinYeong/HongMinyeong/assets/65701100/9b778f57-115c-4ba1-bec4-a1512797816e" width=400 height=300> </a>
 
 <br />
   <br>
