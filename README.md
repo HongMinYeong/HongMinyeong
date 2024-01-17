@@ -27,10 +27,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-
+<br/>
   <br/>
-
-<h4 align="center"> Blog & Social </h4>
+<hr>
+<br/>
+  <br/>
+<h3 align="center">✨ B l o g & S o c i a l ✨</h3>
 <p align="center">
   <a href="https://0boss.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://dksl00.tistory.com/" /></a>&nbsp;
   <!-- <a href="https://medium.com/@gngsn"><img src="http://img.shields.io/badge/-Medium%20[EN]-black?style=flat-square&logo=medium&link=https://medium.com/@gngsn" /></a> -->
@@ -40,6 +42,28 @@
 </p>
 
 <br/>
+<br />
+<hr>
+<br/>
+  <br/>
+<h3> ✨ P r o j e c t s✨ </h3> 
+
+__:memo: [Ahwhew] Next.js + Spring Boot를 이용한 신세 한탄 AI 그림 일기 서비스__
+
+<a href="https://github.com/sessac-3rd-team-A/BE"><img src="https://github.com/sy33002/sy33002/assets/113359008/fcc3fa51-f39b-4e50-80e8-7de146844e91" width=400 height=300> </a>
+<br /><br />
+__:memo: [열줌쉬어] : React.js, Node.js(Express), TypeScript를 활용한 웹 풀스택 프로젝트__
+
+<a href="https://github.com/WebDeViper/WebDeViper_Server"><img src="https://github.com/HongMinYeong/HongMinyeong/assets/65701100/9dea4773-eb51-4abd-9d2a-5268a9723aab" width=400 height=300> </a>
+
+
+<br /><br />
+
+__:memo: [송편지] : node.js + express를 이용한 온라인 롤링페이퍼 사이트__
+
+<a href="https://github.com/WebDeViper/WebDeViper_Server"><img src="https://github.com/HongMinYeong/HongMinyeong/assets/65701100/9b778f57-115c-4ba1-bec4-a1512797816e" width=400 height=300> </a>
+
+<br />
   <br>
   <hr>
   <h2> .. 더보기 </h2>
