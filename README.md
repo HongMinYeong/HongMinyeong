@@ -28,7 +28,18 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 
-  
+  <br/>
+
+<h4 align="center"> Blog & Social </h4>
+<p align="center">
+  <a href="https://0boss.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://dksl00.tistory.com/" /></a>&nbsp;
+  <!-- <a href="https://medium.com/@gngsn"><img src="http://img.shields.io/badge/-Medium%20[EN]-black?style=flat-square&logo=medium&link=https://medium.com/@gngsn" /></a> -->
+  <br/>
+    <!-- <a href="https://www.linkedin.com/in/kyeongsun-park"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsun-park-4b95961b2"/></a> -->
+  <a href="mailto:minyung1240@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minyung1240@khu.ac.kr" /></a>
+</p>
+
+<br/>
   <br>
   <hr>
   <h2> .. 더보기 </h2>
