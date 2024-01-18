@@ -13,7 +13,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    latest_blog_post_list += f"[[{feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} ] {feed['title']}]({feed['link']}) <br>\n"
+    latest_blog_post_list += f"[[ {feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} ] - {feed['title']}]({feed['link']}) <br>\n"
     
 markdown_text = """<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hong%20min%20yeong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
