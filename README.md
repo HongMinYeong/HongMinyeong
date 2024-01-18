@@ -47,12 +47,12 @@
   <br/>
   <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
 
-[[2024.1.17 ] 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
-[[2024.1.14 ] 클라우드 : 가상 머신 & AWS & Docker](https://0boss.tistory.com/69) <br>
-[[2024.1.12 ] URI vs URL](https://0boss.tistory.com/68) <br>
-[[2023.12.11 ] Java : 접근 제어 지시자 (access modifier) & 캡슐화](https://0boss.tistory.com/67) <br>
-[[2023.12.11 ] Java : 객체 지향 프로그래밍](https://0boss.tistory.com/66) <br>
-[[2023.12.11 ] CSRF 공격이란](https://0boss.tistory.com/65) <br>
+[[ 2024.1.17 ] - 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
+[[ 2024.1.14 ] - 클라우드 : 가상 머신 & AWS & Docker](https://0boss.tistory.com/69) <br>
+[[ 2024.1.12 ] - URI vs URL](https://0boss.tistory.com/68) <br>
+[[ 2023.12.11 ] - Java : 접근 제어 지시자 (access modifier) & 캡슐화](https://0boss.tistory.com/67) <br>
+[[ 2023.12.11 ] - Java : 객체 지향 프로그래밍](https://0boss.tistory.com/66) <br>
+[[ 2023.12.11 ] - CSRF 공격이란](https://0boss.tistory.com/65) <br>
 
 
 <br/>
