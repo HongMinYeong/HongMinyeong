@@ -45,6 +45,15 @@
 <hr>
 <br/>
   <br/>
+  <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
+
+[2024/1/17 - 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
+[2024/1/14 - 클라우드 : 가상 머신 & AWS & Docker](https://0boss.tistory.com/69) <br>
+[2024/1/12 - URI vs URL](https://0boss.tistory.com/68) <br>
+[2023/12/11 - Java : 접근 제어 지시자 (access modifier) & 캡슐화](https://0boss.tistory.com/67) <br>
+[2023/12/11 - Java : 객체 지향 프로그래밍](https://0boss.tistory.com/66) <br>
+[2023/12/11 - CSRF 공격이란](https://0boss.tistory.com/65) <br>
+
 <h3> ✨ P r o j e c t s✨ </h3> 
 
 __:memo: [Ahwhew] Next.js + Spring Boot를 이용한 신세 한탄 AI 그림 일기 서비스__
@@ -82,10 +91,3 @@ __:memo: [송편지] : node.js + express를 이용한 온라인 롤링페이퍼 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongMinYeong)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-[2024/1/17 - 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
-[2024/1/14 - 클라우드 : 가상 머신 & AWS & Docker](https://0boss.tistory.com/69) <br>
-[2024/1/12 - URI vs URL](https://0boss.tistory.com/68) <br>
-[2023/12/11 - Java : 접근 제어 지시자 (access modifier) & 캡슐화](https://0boss.tistory.com/67) <br>
-[2023/12/11 - Java : 객체 지향 프로그래밍](https://0boss.tistory.com/66) <br>
-[2023/12/11 - CSRF 공격이란](https://0boss.tistory.com/65) <br>
