@@ -66,6 +66,9 @@ markdown_text = """<p align="center">
 
 """
 markdown_text2 = """
+<hr>
+<br/>
+  <br/>
 <h3> ✨ P r o j e c t s✨ </h3> 
 
 __:memo: [Ahwhew] Next.js + Spring Boot를 이용한 신세 한탄 AI 그림 일기 서비스__
