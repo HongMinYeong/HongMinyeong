@@ -54,6 +54,9 @@
 [2023/12/11 - Java : 객체 지향 프로그래밍](https://0boss.tistory.com/66) <br>
 [2023/12/11 - CSRF 공격이란](https://0boss.tistory.com/65) <br>
 
+<hr>
+<br/>
+  <br/>
 <h3> ✨ P r o j e c t s✨ </h3> 
 
 __:memo: [Ahwhew] Next.js + Spring Boot를 이용한 신세 한탄 AI 그림 일기 서비스__
