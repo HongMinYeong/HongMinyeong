@@ -40,7 +40,6 @@
     <!-- <a href="https://www.linkedin.com/in/kyeongsun-park"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsun-park-4b95961b2"/></a> -->
   <a href="mailto:minyung1240@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minyung1240@khu.ac.kr" /></a>
 </p>
-
 <br/>
 <br />
 <hr>
@@ -83,3 +82,10 @@ __:memo: [송편지] : node.js + express를 이용한 온라인 롤링페이퍼 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongMinYeong)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+[2024/1/17 - 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
+[2024/1/14 - 클라우드 : 가상 머신 & AWS & Docker](https://0boss.tistory.com/69) <br>
+[2024/1/12 - URI vs URL](https://0boss.tistory.com/68) <br>
+[2023/12/11 - Java : 접근 제어 지시자 (access modifier) & 캡슐화](https://0boss.tistory.com/67) <br>
+[2023/12/11 - Java : 객체 지향 프로그래밍](https://0boss.tistory.com/66) <br>
+[2023/12/11 - CSRF 공격이란](https://0boss.tistory.com/65) <br>
