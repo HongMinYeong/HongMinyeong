@@ -62,6 +62,10 @@ markdown_text = """<p align="center">
 <hr>
 <br/>
   <br/>
+  <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
+
+"""
+markdown_text2 = """
 <h3> ✨ P r o j e c t s✨ </h3> 
 
 __:memo: [Ahwhew] Next.js + Spring Boot를 이용한 신세 한탄 AI 그림 일기 서비스__
@@ -99,10 +103,8 @@ __:memo: [송편지] : node.js + express를 이용한 온라인 롤링페이퍼 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongMinYeong)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
 """
-
-readme_text = f"{markdown_text}{latest_blog_post_list}"
+readme_text = f"{markdown_text}{latest_blog_post_list}{markdown_text2}"
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
