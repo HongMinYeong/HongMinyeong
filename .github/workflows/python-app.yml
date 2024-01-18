@@ -27,13 +27,13 @@ jobs:
         pip install feedparser
     - name: Run Update Python Script
       run: |
-        python update_blogPost.py ## 실행시킬 .py이름
+        HongMinyeong.py ## 실행시킬 .py이름
     - name: Update README.md file
       run: |
         git pull
         git add .
         git diff
-        git config --local user.email "your gitEmail"
-        git config --local user.name "you gitName"
-        git commit -m "commit Message"
+        git config --local user.email "minyung1240@daum.nat"
+        git config --local user.name "HongMinyeong"
+        git commit -m "readme.md blog update"
         git push
