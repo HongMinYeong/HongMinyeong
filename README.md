@@ -47,12 +47,12 @@
   <br/>
   <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
 
+[[ 2024.1.23 ] - RDBMS 와 NoSQL (+짧은 회고)](https://0boss.tistory.com/74) <br>
 [[ 2024.1.19 ] - HTTP vs HTTPS 외 프로토콜 종류](https://0boss.tistory.com/72) <br>
 [[ 2024.1.18 ] - [코딩온] 웹 개발 부트캠프 5기 후기](https://0boss.tistory.com/73) <br>
 [[ 2024.1.17 ] - 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
 [[ 2024.1.14 ] - 클라우드 : 가상 머신 & AWS & Docker](https://0boss.tistory.com/69) <br>
 [[ 2024.1.12 ] - URI vs URL](https://0boss.tistory.com/68) <br>
-[[ 2023.12.11 ] - Java : 접근 제어 지시자 (access modifier) & 캡슐화](https://0boss.tistory.com/67) <br>
 
 
 <br/>
