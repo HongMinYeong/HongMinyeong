@@ -47,12 +47,12 @@
   <br/>
   <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
 
+[[ 2024.2.14 ] - [python] 백준 6603 : 로또 (combination, 백트랙킹)](https://0boss.tistory.com/77) <br>
 [[ 2024.2.12 ] - 제너레이터 표현식](https://0boss.tistory.com/76) <br>
 [[ 2024.1.24 ] - 비동기 처리](https://0boss.tistory.com/75) <br>
 [[ 2024.1.23 ] - RDBMS 와 NoSQL (+짧은 회고)](https://0boss.tistory.com/74) <br>
 [[ 2024.1.19 ] - HTTP vs HTTPS 외 프로토콜 종류](https://0boss.tistory.com/72) <br>
 [[ 2024.1.18 ] - [코딩온] 웹 개발 부트캠프 5기 후기](https://0boss.tistory.com/73) <br>
-[[ 2024.1.17 ] - 단방향 암호화 vs 양방향 암호화](https://0boss.tistory.com/71) <br>
 
 
 <br/>
