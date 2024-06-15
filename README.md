@@ -47,12 +47,12 @@
   <br/>
   <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
 
+[[ 2024.6.3 ] - Java - HashSet &amp; 정렬 (1)](https://0boss.tistory.com/82) <br>
+[[ 2024.4.21 ] - Monolithic vs MSA](https://0boss.tistory.com/81) <br>
 [[ 2024.2.20 ] - [python] 백준 2447 : 별 찍기 -10 (재귀)](https://0boss.tistory.com/80) <br>
 [[ 2024.2.19 ] - [python] 백준 4779 : 칸토어 집합 (재귀)](https://0boss.tistory.com/79) <br>
 [[ 2024.2.15 ] - [python] 백준 1541 : 잃어버린괄호 (그리디)](https://0boss.tistory.com/78) <br>
 [[ 2024.2.14 ] - [python] 백준 6603 : 로또 (combination, 백트랙킹)](https://0boss.tistory.com/77) <br>
-[[ 2024.2.12 ] - 제너레이터 표현식](https://0boss.tistory.com/76) <br>
-[[ 2024.1.24 ] - 비동기 처리](https://0boss.tistory.com/75) <br>
 
 
 <br/>
