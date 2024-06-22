@@ -47,12 +47,12 @@
   <br/>
   <h3 align="center"> ✨ Blog 최신 글 ✨ </h3> 
 
+[[ 2024.6.21 ] - 스턱스넷 : Stuxnet 핵이 된 디지털 웜](https://0boss.tistory.com/86) <br>
+[[ 2024.6.21 ] - 보안 프로토콜 : VPN, IPSec, SSL/TLS](https://0boss.tistory.com/85) <br>
 [[ 2024.6.20 ] - Java - 정렬 (2)](https://0boss.tistory.com/83) <br>
 [[ 2024.6.3 ] - Java - HashSet &amp; 정렬 (1)](https://0boss.tistory.com/82) <br>
 [[ 2024.4.21 ] - Monolithic vs MSA](https://0boss.tistory.com/81) <br>
 [[ 2024.2.20 ] - [python] 백준 2447 : 별 찍기 -10 (재귀)](https://0boss.tistory.com/80) <br>
-[[ 2024.2.19 ] - [python] 백준 4779 : 칸토어 집합 (재귀)](https://0boss.tistory.com/79) <br>
-[[ 2024.2.15 ] - [python] 백준 1541 : 잃어버린괄호 (그리디)](https://0boss.tistory.com/78) <br>
 
 
 <br/>
