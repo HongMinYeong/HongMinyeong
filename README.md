@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hong%20min%20yeong.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
 
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongMinYeong&count_bg=%23E92E5D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 <hr>
 <div align="center">
    <h3> ⚒️ T e c h ⚒️ </h3> 
@@ -23,7 +26,7 @@
   <h4>Deploy</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"> -->
   <img src="https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=Amazon%20S3&logoColor=white">
   <h4>Programing Language</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
@@ -90,14 +93,12 @@
 <br/>
   <br/>
 
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongMinYeong&count_bg=%23E92E5D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=HongMinYeong&hide_border=true)](https://git.io/streak-stats)
-<br>
+<br> --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongMinYeong&layout=compact&theme=Most%20Used%20Languages&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongMinYeong)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongMinYeong)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </div>
