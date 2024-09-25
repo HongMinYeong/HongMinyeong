@@ -11,7 +11,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     if idx >= MAX_POST_NUM:  # 수정: idx >= MAX_POST_NUM으로 변경
         break
     feed_date = feed['published_parsed']
-    latest_blog_post_list += f"[{feed['title']}]({feed['link']}) - [{feed_date.tm_year}.{feed_date.tm_mon:02d}.{feed_date.tm_mday:02d}] <br>\n"
+    latest_blog_post_list += f"[[ {feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} ] - {feed['title']}]({feed['link']}) <br>\n"
 
 
 markdown_text = """<p align="center">
