@@ -28,6 +28,9 @@ jobs:
     - name: Run Update Python Script
       run: |
         python HongMinyeong.py ## 실행시킬 .py이름
+    - name: Log in to Docker Hub
+      run: echo "${{ secrets.DOCKER_HUB_TOKEN }}" | docker login -u hongminyeong --password-stdin
+      
     - name: Get the latest tag
       id: get_latest_tag
       run: |
