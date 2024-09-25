@@ -62,11 +62,11 @@
 <hr>
 
 <h3 align="center">✨ Blog 최신 글 ✨ </h3> 
-[[ELK] Elasticsearch 개념 및 설치, kibana 연동하기](https://0boss.tistory.com/96) - [2024.07.16] <br>
-[[Java] - 람다식, Stream API, 인터페이스](https://0boss.tistory.com/94) - [2024.07.15] <br>
-[스턱스넷 : Stuxnet 핵이 된 디지털 웜](https://0boss.tistory.com/86) - [2024.06.21] <br>
-[보안 프로토콜 : VPN, IPSec, SSL/TLS](https://0boss.tistory.com/85) - [2024.06.21] <br>
-[Java - 정렬 (2)](https://0boss.tistory.com/83) - [2024.06.20] <br>
+[[ 2024.7.16 ] - [ELK] Elasticsearch 개념 및 설치, kibana 연동하기](https://0boss.tistory.com/96) <br>
+[[ 2024.7.15 ] - [Java] - 람다식, Stream API, 인터페이스](https://0boss.tistory.com/94) <br>
+[[ 2024.6.21 ] - 스턱스넷 : Stuxnet 핵이 된 디지털 웜](https://0boss.tistory.com/86) <br>
+[[ 2024.6.21 ] - 보안 프로토콜 : VPN, IPSec, SSL/TLS](https://0boss.tistory.com/85) <br>
+[[ 2024.6.20 ] - Java - 정렬 (2)](https://0boss.tistory.com/83) <br>
 
 <div align="center">
     <h2>✨ Blog & Social ✨</h2>
