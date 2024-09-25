@@ -28,14 +28,35 @@ jobs:
     - name: Run Update Python Script
       run: |
         python HongMinyeong.py ## 실행시킬 .py이름
+    - name: Get the latest tag
+      id: get_latest_tag
+      run: |
+        echo "Fetching latest tag..."
+        TAG=$(curl -s https://hub.docker.com/v2/repositories/hongminyeong/pythonapp/tags | jq -r '.results[0].name' | sed 's/[^0-9]*//g')
+        echo "Latest tag: $TAG"
+        if [[ -z "$TAG" ]]; then
+          echo "TAG=0" >> $GITHUB_ENV
+        else
+          echo "TAG=$TAG" >> $GITHUB_ENV
+        fi
+    - name: Set new tag
+      id: set_new_tag
+      run: |
+        NEW_TAG=$((TAG + 1))
+        echo "New tag: $NEW_TAG"
+        echo "NEW_TAG=$NEW_TAG" >> $GITHUB_ENV
+
     - name: Build Docker Image
       run: |
-          docker build -t myflaskapp .
+        docker build -t myflaskapp .
+        docker tag myflaskapp hongminyeong/pythonapp:${{ env.NEW_TAG }}
+        docker push hongminyeong/pythonapp:${{ env.NEW_TAG }}
 
     - name: Run Trivy Vulnerability Scan
       run: |
-          docker run --rm -v $(pwd):/project aquasec/trivy --no-progress --exit-code 0 --severity HIGH,CRITICAL --ignore-unfixed myflaskapp
-      
+        docker run --rm -v $(pwd):/project aquasec/trivy --no-progress --exit-code 0 --severity HIGH,CRITICAL --ignore-unfixed myflaskapp
+        docker run --rm aquasec/trivy image hongminyeong/pythonapp:${{ env.NEW_TAG }}
+        
     - name: Update README.md file
       run: |
         git pull
