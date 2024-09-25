@@ -57,7 +57,7 @@ jobs:
 
     - name: Run Trivy Vulnerability Scan
       run: |
-        docker run --rm -v $(pwd):/project aquasec/trivy --quiet --exit-code 0 --severity HIGH,CRITICAL --ignore-unfixed filesystem /project
+        docker run --rm -v $(pwd):/project aquasec/trivy --quiet --severity HIGH,CRITICAL filesystem /project
         docker run --rm aquasec/trivy image hongminyeong/pythonapp:${{ env.NEW_TAG }}
         
     - name: Update README.md file
